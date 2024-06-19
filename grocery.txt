@@ -1,0 +1,1 @@
+grocery="household items,dhal items,mens wears,women wears"

@@ -1,0 +1,8 @@
+date:2024-06-19 16:18:04.573262
+
+pant is 2100
+pant with gst amount is 2142.0
+
+urad dhal is 356
+
+urad dhal with gst amount is 363.12
